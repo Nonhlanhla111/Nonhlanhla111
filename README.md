@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Nonhlanhla111/Nonhlanhla111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋🏽 Hi, I'm Senamile
+💻 **Software Development | 🔐 Cybersecurity | 🤖 AI**
+I'm an IT Software Development graduate and Cybersecurity Intern
+passionate about building practical, secure, and user-focused
+technology solutions.
+I'm currently developing my skills across software development,
+cybersecurity, and AI through hands-on projects and continuous learning.
+### 🚀 What I'm Exploring
+- 💻 Software Development
+- 🔐 Cybersecurity
+- 🤖 Artificial Intelligence
+- 🛡️ Secure Application Development
+> **Build. Secure. Learn.**
