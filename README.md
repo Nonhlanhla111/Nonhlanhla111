@@ -1,7 +1,8 @@
 # 👋🏽 Hi, I'm Senamile
 💻 **Software Development | 🔐 Cybersecurity | 🤖 AI**
+
 I'm an IT Software Development graduate and Cybersecurity Intern
-passionate about building practical, secure, and user-focused
+passionate about building practical, secure and user-focused
 technology solutions.
 I'm currently developing my skills across software development,
 cybersecurity, and AI through hands-on projects and continuous learning.
