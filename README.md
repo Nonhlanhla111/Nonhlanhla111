@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Senamile
+# 👋🏽 Hi, I'm Senamile Maphoso
 💻 **Software Development | 🔐 Cybersecurity | 🤖 AI**
 
 I'm an IT Software Development graduate and Cybersecurity Intern
